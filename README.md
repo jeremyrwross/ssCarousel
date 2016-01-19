@@ -1,8 +1,8 @@
-#ssCarousel
+# ssCarousel
 
 Based on the great script: http://kenwheeler.github.io/slick/
 
-###Install Instructions
+### Install Instructions
 
 How to integrate into your theme
 

@@ -8,7 +8,7 @@ Version: 1
 Author URI: http://www.web.com
 */
 
-class webcom_slick_01 extends WP_Widget {
+class sscarousel_slick_01 extends WP_Widget {
 
     private $WidgetName = 'Slick Carousel Item';
     private $WidgetDesc = 'Individual Slick Carousel Item';

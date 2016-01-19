@@ -18,6 +18,8 @@ How to integrate into your theme
 
 To modify what your carousel items contains, simply open the php file inside the widgets folder and edit the first section of variables.
 
+To change the carousel behaviour, see http://kenwheeler.github.io/slick/ for more details regarding JavaScript settings; which are included with scripts/slick
+
 ### Adding more than one carousel
 
 Coming soon!

@@ -20,8 +20,8 @@ function sscarousel_custom_widget_setup_slick() {
 }
 add_action( 'widgets_init', 'sscarousel_custom_widget_setup_slick' );
 
-include 'widgets/sscarousel_cta_01.php';
-add_action('widgets_init', create_function('', 'return register_widget("sscarousel_cta_01");'));
+include 'widgets/sscarousel_slick_01.php';
+add_action('widgets_init', create_function('', 'return register_widget("sscarousel_slick_01");'));
 
 function sscarousel_slick_sidebar_shortcode() {
 

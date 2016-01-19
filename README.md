@@ -18,3 +18,10 @@ How to integrate into your theme
 
 To modify what your carousel items contains, simply open the php file inside the widgets folder and edit the first section of variables.
 
+### Adding more than one carousel
+
+Coming soon!
+
+#### Todo
+
+- 
